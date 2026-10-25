@@ -12,9 +12,8 @@ alt="React Components"
     </p>
 
     <p className="blog-description">
-      Learn the basics of React components and JSX. Build clean and
-      reusable user interfaces with React.
-    </p>
+  Learn the basics of React components and JSX...
+</p>
 
     <button className="read-more-button">Read More</button>
   </div>
